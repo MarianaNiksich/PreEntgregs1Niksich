@@ -38,6 +38,7 @@ do {
         break
     } else if (opcion === 10) {
         radiacion(70, 6)
+        break
     } else if (opcion === 11) {
         radiacion(62, 6)
         break
